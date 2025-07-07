@@ -18,10 +18,6 @@ I'm currently focused on:
 *   **Exploring the world of low-level systems:** I'm fascinated by how computers work, and I'm always eager to learn more about operating systems, networking, and other low-level topics.
 *   **Creating tools to automate my workflow:** I'm a firm believer in the power of automation, and I'm always looking for new ways to make my life easier.
 
-## Projects
-
-Here are some of my favorite projects:
-
 ## How to reach me
 
 *   **GitHub:** [@tosuki](https://github.com/tosuki)
