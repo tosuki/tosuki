@@ -1,10 +1,5 @@
 # Hi there, I'm Carlos Henrique 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tosuki&show_icons=true&theme=dracula&count_private=true" alt="Carlos's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosuki&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
 I'm a Fullstack developer with a curiosity for networks, web technologies, and the inner workings of UNIX. I enjoy crafting interfaces, tinkering with low-level systems, and building tools that make life just a bit more elegant.
 
 ## 🛠️ Skills
@@ -60,11 +55,6 @@ I'm currently focused on:
 *   **GitHub:** [@tosuki](https://github.com/tosuki)
 *   **Email:** [okaabe2006@gmail.com](mailto:okaabe2006@gmail.com)
 *   **Blog:** [tosuki.github.io/blog/](https://tosuki.github.io/blog/)
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tosuki/tosuki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 <p align="center">
